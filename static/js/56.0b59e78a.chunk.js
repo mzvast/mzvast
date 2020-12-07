@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[56],{173:function(n,t,e){"use strict";e.r(t),t.default={title:"Preparing for a Tech Talk",tags:["tech","talk"],spoiler:"\u5982\u4f55\u51c6\u5907\u6280\u672f\u5206\u4eab",getContent:function(){return e.e(105).then(e.bind(null,117))}}}}]);
+//# sourceMappingURL=56.0b59e78a.chunk.js.map
